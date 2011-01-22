@@ -1,0 +1,5 @@
+Sick of the crap on Myspace? Make it usable again by restoring what it always
+was supposed to be: a way of discovering new independent music.
+
+This script simply redirects any Myspace page to it's music player, naively at
+that.
