@@ -1,4 +1,5 @@
 Want to watch Youtube videos sans all the visual distractions?
 
-This script simply redirects any Youtube "watch" page to the (leaner) popup
-page.
+This script simply redirects any Youtube "watch" page to the "popup" page. The
+page contains *only* the video and, as a handy side effect, automatically
+switches to the optimal video quality based on the window size.
